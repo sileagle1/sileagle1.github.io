@@ -7,8 +7,7 @@ source "https://rubygems.org"
 #
 gem "jekyll", "~> 4.3.2"
 
-gem "just-the-docs", "0.5.4" # pinned to the current release
-
+gem "just-the-docs", "~> 0.5.4"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
