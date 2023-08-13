@@ -22,7 +22,7 @@ title: Silver Eagle's Letterbox Aerie
 description: >- # this means to ignore newlines until "baseurl:"
   A website dedicated to Letterboxing by Silver Eagle.
 url: "sileagle1.github.io"
-baseurl: "/silver-eagle-aerie"
+baseurl: ""
 github_username:  sileagle1
 
 # Build settings
