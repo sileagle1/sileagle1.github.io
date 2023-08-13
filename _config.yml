@@ -27,8 +27,6 @@ github_username:  sileagle1
 
 # Build settings
 theme: just-the-docs
-plugins:
-  - jekyll-feed
 
 logo: "/assets/images/logo.jpg"
 favicon_ico: "/assets/images/favicon.ico"
