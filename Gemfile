@@ -5,8 +5,8 @@ source "https://rubygems.org"
 #
 #     bundle exec jekyll serve
 #
-gem "jekyll"
-gem "just-the-docs"
+gem "jekyll", "~> 4.3.2"
+gem "just-the-docs", "0.5.4"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
