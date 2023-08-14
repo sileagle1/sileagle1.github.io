@@ -1,0 +1,32 @@
+body, .side-bar {
+    background-image: url("images/grainy_paper.jpg");
+}
+
+.site-header {
+    padding-top: 30px;
+}
+
+.main-content-wrap {
+  background-image: url("images/main_paper.png");
+  background-size: 100% auto;
+  color: black;
+  font-size: 16px;
+}
+
+.nav-list {
+    background-image: url("images/nav.png");
+    background-size: 100% 100%;
+    font-size: 16px;
+}
+
+.nav-list-link {
+    font-size: 15px;
+}
+
+table, tr, th, td {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+table {
+    border: 1px solid black;
+}

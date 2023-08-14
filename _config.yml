@@ -28,7 +28,6 @@ github_username:  sileagle1
 # Build settings
 theme: just-the-docs
 
-logo: "/logo.jpg"
 favicon_ico: "/favicon.ico"
 
 # jekyll-gallery-generator
