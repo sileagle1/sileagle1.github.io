@@ -6,6 +6,20 @@ body, .side-bar {
     padding-top: 30px;
 }
 
+#main-header {
+    margin: 5px;
+}
+
+.search, .search-input {
+    background-image: url("images/grainy_paper.jpg");
+    color: black;
+}
+
+.search {
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
 .main-content-wrap {
   background-image: url("images/main_paper.png");
   background-size: 100% auto;
