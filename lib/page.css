@@ -25,6 +25,24 @@ body, .side-bar {
   background-size: 100% auto;
   color: black;
   font-size: 16px;
+  padding: 36px 40px;
+}
+
+.site-header a {
+    background-color: rgba(0, 0, 0, 0);
+    background-image: none !important;
+    }
+
+.side-bar a {
+    color: #0000EE;
+}
+
+.main-content-wrap a {
+    color: #0000EE;
+}
+
+.main-content-wrap a:visited {
+    color: #551A8B;
 }
 
 .nav-list {
