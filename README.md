@@ -51,7 +51,7 @@ TALE21-event:
   photo2.jpg: The second photograph
 ```
 
-After adding all the photos, run the command `jekyll build` in the terminal to generate
+After adding all the photos, run the command `bundle exec jekyll build` in the terminal to generate
 the new thumbnail images on your machine.
 
 ## Local Development
