@@ -10,6 +10,7 @@ The website uses Jekyll to help create the content.
 ### Setup
 
 * You will need to [install prerequisites for Jekyll](https://jekyllrb.com/docs/installation/windows/).
+* You will need to [install ImageMagick](https://imagemagick.org/script/download.php)
 * In the root of the project, run `bundle install`
 
 ### Preview Changes Locally
