@@ -1,0 +1,12 @@
+img {
+    height: auto;
+    width: auto;
+    max-width: 300px;
+    max-height: 300px;
+    margin: 10px;
+}
+
+.img-link {
+    text-decoration: none;
+    border: 0 !important;
+}
