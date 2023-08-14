@@ -3,7 +3,9 @@ The URL of the website is: https://sileagle1.github.io
 
 ## Technology
 
-The website uses Jekyll to help create the content.
+The website uses [Jekyll](https://jekyllrb.com/) to help simplify content creation.
+Content is still written using HTML, but Jekyll does a lot of heavy lifting to make things
+easy to use and link together.
 
 ## Adding New Content
 
@@ -53,6 +55,13 @@ TALE21-event:
 
 After adding all the photos, run the command `bundle exec jekyll build` in the terminal to generate
 the new thumbnail images on your machine.
+
+## Adjusting Style
+
+The style related files live in the `lib` folder.
+The `just-the-doc` Jekyll theme does most of the default styling, but there are things that
+are overriden in the css files of that folder.
+Images used for backgrounds are in the `lib/images` folder.
 
 ## Local Development
 
