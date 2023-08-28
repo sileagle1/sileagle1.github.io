@@ -7,7 +7,7 @@ source "https://rubygems.org"
 #
 gem "jekyll", "~> 4.3.2"
 
-gem "just-the-docs", "~> 0.5.4"
+gem "just-the-docs", "~> 0.6.1"
 
 gem "exifr", "~> 1.3"
 gem "rmagick", "~> 4.1.1"
