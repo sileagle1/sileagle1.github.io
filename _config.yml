@@ -46,7 +46,48 @@ gallery:
       best_image: tale20-event_stamp-small.jpg
     2023-03-03_Pre-TALE20-Dinner-Event:
       best_image: cabbage_runs_through_it-event stamp-small.jpg
-
+    2022-03-05_TALE19:
+      best_image: TALE19 event stamp.jpg
+    2021-03-06_TALE18:
+      best_image: event_stamp.jpg
+    2019-03-02_TALE16:
+      best_image: event_stamp.jpg
+    2018-10-26_Live-&-Breathe-XX-Event:
+      best_image: lbxx_event_stamp-small.jpg
+    2015-03-06_Messing-With-Texans-Event:
+      best_image: event_stamp001.jpg
+    2013-09-06_Live-&-Breathe-XV-Event:
+      best_image: live_breathe_event_stamp.jpg
+    2013-03-02_TALE10:
+      best_image: tale10_event_stamp.jpg
+    2011-03-05_TALE08:
+      best_image: event_stamp.jpg
+    2011-03-04_Native-Feast-Event:
+      best_image: event_stamp.jpg
+    2010-03-06_TALE07:
+      best_image: event_stamp.jpg
+    2010-03-05_Come-And-Get-It-Event:
+      best_image: event_stamp.jpg
+    2009-11-15_Game-On-Event:
+      best_image: gameon_event_stamp.jpg
+    2009-03-07_TALE06:
+      best_image: event_stamp_smaller.jpg
+    2008-03-30_Red-Barn-Event:
+      best_image: eventstamp.jpg
+    2008-03-30_Dog-Days-Event:
+      best_image: dogdays_event_stamp.jpg
+    2008-03-01_TALE05:
+      best_image: event_stamp.jpg
+    2007-10-06_Yellow-Brick-Trail-Event:
+      best_image: eventstamp.jpg
+    2007-03-03_TALE04:
+      best_image: tale04_event_stamp.jpg
+    2006-03-18_TALE03:
+      best_image: tale03_event_stamp.jpg
+    2005-03-19_TALE02:
+      best_image: tale02_event_stamp.jpg
+    2004-03-06_TALE01:
+      best_image: tale01event_stamp.jpg
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
