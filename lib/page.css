@@ -62,3 +62,7 @@ table, tr, th, td {
 table {
     border: 1px solid black;
 }
+
+.image-caption {
+    color: white;
+}
