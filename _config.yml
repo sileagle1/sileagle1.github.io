@@ -41,6 +41,11 @@ gallery:
   thumbnail_size:
     x: 400                  # max width of thumbnails (in pixels)
     y: 400                  # max height of thumbnails (in pixels)
+  galleries:
+    2023-03-04_TALE20:
+      best_image: tale20-event_stamp-small.jpg
+    2023-03-03_Pre-TALE20-Dinner-Event:
+      best_image: cabbage_runs_through_it-event stamp-small.jpg
 
 # Exclude from processing.
 # The following items will not be processed, by default.
