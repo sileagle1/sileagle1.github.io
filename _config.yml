@@ -42,6 +42,8 @@ gallery:
     x: 400                  # max width of thumbnails (in pixels)
     y: 400                  # max height of thumbnails (in pixels)
   galleries:
+    2023-11-03_Live-&-Breathe-XXV-Event:
+      best_image: L&BXXV-event_stamp_small.jpg
     2023-03-04_TALE20:
       best_image: tale20-event_stamp-small.jpg
     2023-03-03_Pre-TALE20-Dinner-Event:
