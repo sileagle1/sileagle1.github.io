@@ -73,7 +73,7 @@ Images used for backgrounds are in the `lib/images` folder.
 
 ### Preview Changes Locally
 
-* In the root of the project, run `bundle exec jekyll serve`
+* In the root of the project, run `bundle exec jekyll serve trace`
 * You can view the website at http://127.0.0.1:4000
 * Changes made to html files should automatically be reflected when you refresh the page in the browser.
   If not, simply stop the `bundle` command and re-run it.
