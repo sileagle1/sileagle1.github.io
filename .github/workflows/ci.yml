@@ -19,5 +19,11 @@ jobs:
         with:
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
+      - name: Upload mkmf.log
+        if: failure()  # Only upload if the previous step fails
+        uses: actions/upload-artifact@v3
+        with:
+          name: mkmf-log
+          path: /home/runner/work/sileagle1.github.io/sileagle1.github.io/vendor/bundle/ruby/3.2.0/extensions/x86_64-linux/3.2.0/rmagick-5.3.0/mkmf.log
       - name: Build with Jekyll
         run: bundle exec jekyll build
