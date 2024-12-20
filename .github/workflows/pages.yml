@@ -32,7 +32,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Install prerequisites
-        run: sudo apt-get install -y imagemagick
+        run: sudo apt-get install -y libmagickwand-dev pkg-config imagemagick
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
