@@ -31,6 +31,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Update apt
+        run: sudo apt-get update
       - name: Install prerequisites
         run: sudo apt-get install -y libmagickwand-dev pkg-config imagemagick
       - name: Setup Ruby
