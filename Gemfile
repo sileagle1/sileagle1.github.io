@@ -6,7 +6,7 @@ source "https://rubygems.org"
 #     bundle exec jekyll serve
 #
 gem "jekyll", "~> 4.4"
-gem "just-the-docs", "~> 0.5.4"
+gem "just-the-docs", "~> 0.12.0"
 
 gem "exifr", "~> 1.3"
 gem "rmagick", "~> 5.3.0"
